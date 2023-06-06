@@ -1,5 +1,5 @@
 {
-  "name": "yolo on webcam",
+  "name": "yol0v8_react",
   "version": "0.1.0",
   "dependencies": {
     "@techstark/opencv-js": "4.5.5-release.2",
