@@ -113,7 +113,7 @@ const App = () => {
       </div>
 
       <div className="content">
-        (
+        
         <video
           ref={videoRef}
           width={modelInputShape[2]}
@@ -121,7 +121,7 @@ const App = () => {
           autoPlay
           playsInline
         />
-        )
+        
         <canvas
           id="canvas"
           width={modelInputShape[2]}
